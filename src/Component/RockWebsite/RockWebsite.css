@@ -1,0 +1,49 @@
+.Part-1{
+    background-image: linear-gradient(to top right, #0f6640 , #48ffb0);
+    height: 41.3rem;
+}
+
+.Bootstrap-bar{
+    border-style: none;
+    background: rgba(0, 0, 0, 0.548);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.CenterText{
+    height: 40rem;
+}
+
+.Text-1{
+    font-size: 600%;
+}
+
+.Text-2{
+    font-size: 400%;
+    background-color: rgba(56, 55, 55, 0.151);
+}
+
+.SignUp:hover , .LogIn:hover , .Start-BootStrap:hover{
+    cursor: pointer;
+    color: #45f5a9;
+}
+
+.ImgEffect{
+    width: 400px;
+    height: 400px;
+    border-style: none;
+    border-radius: 50%;
+
+}
+
+.TextPhoto{
+    border-style: none;
+    width: 32rem;
+}
+
+.H-TextPhoto{
+    font-size: 350%;
+    font-weight: 350;
+}
